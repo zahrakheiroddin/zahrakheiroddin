@@ -5,7 +5,7 @@ I'm thrilled to share my code and data with you. Let's collaborate, make new dev
 ## Let's Get Started!
 
 
-![Exciting Project](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJqMTA5dDA3aGduMzhudXdqaTVrZXgzOHhydDVoOTU1cWRucmkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfj1m5P8io5FPI0ChS/giphy.gif)
+![Exciting Project](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJqMTA5dDA3aGduMzhudXdqaTVrZXgzOHhydDVoOTU1cWRucmkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfj1m5P8io5FPI0ChS/giphy.gif) ![Exciting Project](https://media.giphy.com/media/your-gif-link/giphy.gif)
 
 Feel free to explore, contribute, and let's build something amazing together!
 
