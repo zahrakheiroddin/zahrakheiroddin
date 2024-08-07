@@ -12,11 +12,11 @@ Feel free to explore, contribute, and let's build something amazing together!
 
 
 <p align="left">
-  <a href="https://github.com/imanabr77/imanabr77">
-    <img src="https://komarev.com/ghpvc/?username=imanabr77" alt="page views" />
+  <a href="https://github.com/zahrakheiroddin/zahrakheiroddin">
+    <img src="https://komarev.com/ghpvc/?username=zahrakheiroddin" alt="page views" />
   </a>
-  <a href="https://github.com/imanabr77?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/imanabr77?color=green&logo=github">
+  <a href="https://github.com/zahrakheiroddin?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zahrakheiroddin?color=green&logo=github">
   </a>
 </p>
 
