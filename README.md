@@ -23,7 +23,7 @@ Feel free to explore, contribute, and let's build something amazing together!
 
 # 💫 About Me:
 
-As a DevOps Engineer, I am eager to work hard and continue my everyday learning to enhance mycareer and knowledge. I have critical experience in automating, supporting, and maintaining processes, which include various tools and platforms. I was chosen as a mentor for new joiners to educate and guide them. I have successfully participated as a mature team worker in an international environment with more than 20 people and +2000 Employees in Iran. I am able to effectively adapt to new challenges and solve issues during independent projects, and collaborate as part of a productive agile team.
+As a DevOps Engineer, I am eager to work hard and continue my everyday learning to enhance mycareer and knowledge. I have critical experience in automating, supporting, and maintaining processes, which include various tools and platforms. I was chosen as a mentor for new joiners to educate and guide them. I have successfully participated as a mature team worker in an international environment with more than 20 people and +2000 Employees. I am able to effectively adapt to new challenges and solve issues during independent projects, and collaborate as part of a productive agile team.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-kheiroddin-a0112913b/) 
 
