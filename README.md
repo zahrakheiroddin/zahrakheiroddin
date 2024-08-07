@@ -7,3 +7,34 @@ I'm thrilled to share my code and data with you. Let's collaborate, make new dev
 
 Feel free to explore, contribute, and let's build something amazing together!
 
+<h1 align="left" >:wave: Hello there! I'm Zahra Kheiroddin</h1>
+<h3 align="left">I am a NetDevops , I guess  </h3>
+
+
+<p align="left">
+  <a href="https://github.com/imanabr77/imanabr77">
+    <img src="https://komarev.com/ghpvc/?username=imanabr77" alt="page views" />
+  </a>
+  <a href="https://github.com/imanabr77?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/imanabr77?color=green&logo=github">
+  </a>
+</p>
+
+
+# 💫 About Me:
+
+As a DevOps Engineer, I am eager to work hard and continue my everyday learning to enhance mycareer and knowledge. I have critical experience in automating, supporting, and maintaining processes, which include various tools and platforms. I was chosen as a mentor for new joiners to educate and guide them. I have successfully participated as a mature team worker in an international environment with more than 20 people and +2000 Employees in Iran. I am able to effectively adapt to new challenges and solve issues during independent projects, and collaborate as part of a productive agile team.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-kheiroddin-a0112913b/) 
+
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zahrakheiroddin&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zahrakheiroddin&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zahrakheiroddin&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
