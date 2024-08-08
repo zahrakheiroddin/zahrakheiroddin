@@ -44,5 +44,6 @@ As a DevOps Engineer, I am eager to work hard and continue my everyday learning 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zahrakheiroddin&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zahrakheiroddin&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
+<a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" height="100%"></a>
+```math
+\ce{$&#x5C;unicode[font-family: "Courier New", monospace; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/samyk/samyk/master/.../w.jpg');]{x0000}$}
