@@ -5,10 +5,13 @@ I'm thrilled to share my code and data with you. Let's collaborate, make new dev
 ## Let's Get Started!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJqMTA5dDA3aGduMzhudXdqaTVrZXgzOHhydDVoOTU1cWRucmkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfj1m5P8io5FPI0ChS/giphy.gif" alt="Excited GIF">
+  <img src="your-left-image-url" alt="Left Image" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJqMTA5dDA3aGduMzhudXdqaTVrZXgzOHhydDVoOTU1cWRucmkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfj1m5P8io5FPI0ChS/giphy.gif" alt="Middle Image" width="250"/>
+  <img src="your-right-image-url" alt="Right Image" width="350"/>
 </div>
 
 Feel free to explore, contribute, and let's build something amazing together!
+
 
 <h1 align="left" >:wave: Hello there! I'm Zahra Kheiroddin</h1>
 <h3 align="left">I am a NetDevops , I guess  </h3>
