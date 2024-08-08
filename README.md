@@ -35,9 +35,7 @@ As a DevOps Engineer, I am eager to work hard and continue my everyday learning 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-kheiroddin-a0112913b/)<div style="text-align: right;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJqMTA5dDA3aGduMzhudXdqaTVrZXgzOHhydDVoOTU1cWRucmkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfj1m5P8io5FPI0ChS/giphy.gif" alt="Right Image" width="300" height="300" style="border-radius: 50%;"/>
-</div> 
-
+  
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
