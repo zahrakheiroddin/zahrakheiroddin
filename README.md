@@ -5,14 +5,10 @@ I'm thrilled to share my code and data with you. Let's collaborate, make new dev
 ## Let's Get Started!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4M3N0cmc0Z3hoY3ExeTRoZXJxeGtuN25oenBhaDY4MDU0cDc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AxC7XL29PXWQ7Hpsck/giphy.gif" alt="Diamond Image" width="150" style="border-radius: 0; transform: rotate(45deg);"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4M3N0cmc0Z3hoY3ExeTRoZXJxeGtuN25oenBhaDY4MDU0cDc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AxC7XL29PXWQ7Hpsck/giphy.gif" alt="Circular Image" width="150" style="border-radius: 50%;"/>
 </div>
 
 Feel free to explore, contribute, and let's build something amazing together!
-
-
-
-
 
 
 <h1 align="left" >:wave: Hello there! I'm Zahra Kheiroddin</h1>
