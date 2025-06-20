@@ -12,9 +12,9 @@
 
 🎓 **M.Sc. in Data Science | DevOps Engineer | Founder of OceanRithm**
 
-🔧 Passionate about cloud-native DevOps automation, GitHub Actions, Kubernetes, Ansible, Jenkins, and Terraform.
+🔧 Passionate about cloud native DevOps automation, GitHub Actions, Kubernetes, Ansible, Jenkins, and Terraform.
 
-🧠 A driven engineer with real-world experience in enterprise-grade infrastructure, international team collaboration (20+ team members), and mentoring new engineers.
+🧠 A driven engineer with real world experience in enterprise-grade infrastructure, international team collaboration (20+ team members), and mentoring new engineers.
 
 ---
 
