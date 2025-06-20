@@ -1,8 +1,8 @@
 # 🚀 Welcome to Zahra Kheiroddin's GitHub
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF4M3N0cmc0Z3hoY3ExeTRoZXJxeGtuN25oenBhaDY4MDU0cDc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AxC7XL29PXWQ7Hpsck/giphy.gif" width="500" alt="DevOps Animation" style="border-radius: 50%;" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/AxC7XL29PXWQ7Hpsck/giphy.gif" width="300" alt="DevOps GIF">
+</p>
 
 > 🌟 *Let’s automate, collaborate, and build impactful DevOps systems together.*
 
@@ -10,31 +10,27 @@
 
 ## 👋 Hello! I’m Zahra Kheiroddin
 
-🎓 **M.Sc. in Data Science | DevOps Engineer**
-
-🔧 Passionate about cloud-native DevOps automation, GitHub Actions, Kubernetes, Ansible, Jenkins, and Terraform.
-
-🧠 A driven engineer with real-world experience in enterprise-grade infrastructure, international team collaboration (20+ team members), and mentoring new engineers.
+🎓 **M.Sc. in Data Science | DevOps Engineer**  
+🔧 Specializing in **GitHub Actions**, **Kubernetes**, **Jenkins**, **Ansible**, **Terraform**, and secure CI/CD automation.  
+🌍 Proven success in international DevOps teams with 20+ engineers and 2000+ employees.
 
 ---
 
 ## 💬 About Me
 
 As a NetDevOps professional, I’m committed to:
-- 💡 Automating complex CI/CD processes
-- 🌐 Scaling infrastructure across platforms (Linux, macOS, Windows, Kubernetes)
-- 🤝 Mentoring and collaborating in fast-paced international environments
-- 🔐 Building secure, maintainable DevOps pipelines
 
-> 🌍 Worked with over 2000+ employees across international teams
+- 💡 Automating complex CI/CD pipelines
+- 🌐 Deploying and managing infrastructure across Linux, macOS, Windows, and Kubernetes
+- 🤝 Mentoring engineers and working in agile global teams
+- 🔐 Ensuring security-first DevOps workflows
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-kheiroddin-a0112913b/)
-
-📧 zahrakheiroddin1997@yahoo.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-kheiroddin-a0112913b/)  
+📧 zahra.kheiroddin@pm.me
 
 ---
 
@@ -44,8 +40,8 @@ As a NetDevOps professional, I’m committed to:
 
 <table>
   <tr>
-    <td align="center" colspan="2"><strong>🛠 Tools & Platforms</strong></td>
-    <td align="center" colspan="2"><strong>🌐 DevOps & Cloud</strong></td>
+    <td align="center" colspan="2"><strong>🛠 Tools & Languages</strong></td>
+    <td align="center" colspan="2"><strong>☁️ DevOps & Cloud</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /></td>
@@ -67,7 +63,6 @@ As a NetDevOps professional, I’m committed to:
 
 </div>
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -85,8 +80,9 @@ As a NetDevOps professional, I’m committed to:
 📂 Browse my repositories  
 🌟 Star what inspires you  
 🔧 Fork & contribute to make it better  
-💬 Let's connect and collaborate!
+💬 Reach out to collaborate — I’m always open to meaningful projects!
 
 ---
 
-> 📌 **Note**: This portfolio and all project code is protected under [MIT License with Attribution](LICENSE). Please respect the terms before reuse or distribution.
+> 📌 **Note**: This portfolio and all project code is protected under [MIT License with Attribution](LICENSE).  
+> Unauthorized reuse, academic submission, or modification without permission is prohibited.
