@@ -34,7 +34,7 @@ As a NetDevOps professional, I’m committed to:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-kheiroddin-a0112913b/)
 
-📧 zahra.kheiroddin@pm.me
+📧 zahrakheiroddin1997@yahoo.com
 
 ---
 
