@@ -1,3 +1,4 @@
+
 # 🚀 Welcome to Zahra Kheiroddin's GitHub
 
 <p align="center">
@@ -10,27 +11,27 @@
 
 ## 👋 Hello! I’m Zahra Kheiroddin
 
-🎓 **M.Sc. in Data Science | DevOps Engineer**  
-🔧 Specializing in **GitHub Actions**, **Kubernetes**, **Jenkins**, **Ansible**, **Terraform**, and secure CI/CD automation.  
-🌍 Proven success in international DevOps teams with 20+ engineers and 2000+ employees.
+🎓 **M.Sc. in Data Science | DevOps Engineer**
+🔧 Specialized in **GitHub Actions**, **Kubernetes**, **Jenkins**, **Ansible**, **Terraform**, and secure CI/CD automation.
+🌍 Successfully contributed to international DevOps teams with 20+ engineers and infrastructures supporting over 2000 employees.
 
 ---
 
 ## 💬 About Me
 
-As a NetDevOps professional, I’m committed to:
+As a NetDevOps engineer, I’m dedicated to:
 
-- 💡 Automating complex CI/CD pipelines
-- 🌐 Deploying and managing infrastructure across Linux, macOS, Windows, and Kubernetes
-- 🤝 Mentoring engineers and working in agile global teams
-- 🔐 Ensuring security-first DevOps workflows
+* 💡 Automating complex and secure CI/CD workflows
+* 🌐 Managing cross-platform infrastructure (Linux, macOS, Windows, Kubernetes)
+* 🤝 Leading and mentoring in agile, distributed teams
+* 🔐 Driving security-first DevOps practices
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-kheiroddin-a0112913b/)  
-📧 zahra.kheiroddin@pm.me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/zahra-kheiroddin-a0112913b/)
+📧 [zahra.kheiroddin@pm.me](mailto:zahra.kheiroddin@pm.me)
 
 ---
 
@@ -77,12 +78,9 @@ As a NetDevOps professional, I’m committed to:
 
 ## 🤝 Let's Build Together
 
-📂 Browse my repositories  
-🌟 Star what inspires you  
-🔧 Fork & contribute to make it better  
-💬 Reach out to collaborate — I’m always open to meaningful projects!
+📂 Explore the repositories
+🌟 Star projects you find valuable
+🔧 Fork and contribute
+💬 Open to collaborations — let’s create real impact through automation!
 
----
 
-> 📌 **Note**: This portfolio and all project code is protected under [MIT License with Attribution](LICENSE).  
-> Unauthorized reuse, academic submission, or modification without permission is prohibited.
